@@ -7,7 +7,7 @@ El cual nos sirve como un gestor de plugins para que nos sea mas facil su instal
 dicho gestor quedara instalado en la siguiente ruta en la computadora: `C:\Users\usuario\AppData\Local\nvim-data\site\autoload`.
 
 Ahora nos situaremos en la siguiente carpeta: `C:\Users\usuario\AppData\Local\nvim` dentro de esta carpeta vamos a crear una nueva carpeta llamada `plugged`,
-una vez creada dicha carpeta procederemos a copiar todo lo que tengamos en nuestro archivo de [init.vim](https://github.com/Damacy64/init.vim) que esta en esta pagina.
+una vez creada dicha carpeta procederemos a copiar todo lo que tengamos en nuestro archivo de [init.vim](https://github.com/Damacy64/init.vim/blob/master/init.vim) que esta en esta pagina.
 
 ## Instalacion
 una vez que se haya hecho todo lo anterior, deberar abrir vim, ya abierto presionaras la tecla `esc` para poder escribir el siguiente comando `:PlugInstall`, una vez ejecutemos este comando, se instalaran todos los plugins que tengamos en nuestro **init.vim**.
